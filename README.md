@@ -22,8 +22,7 @@
 
 <br>
 <h3>Languages covered</h3>
-    - [x] HTML
-    
+    <h5>HTML</h5>
     <h5>Python</h5>
     - [x] Flask
     - [x] Django
