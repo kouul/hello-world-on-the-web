@@ -1,17 +1,12 @@
-<h1>Hello World</h1>
-<br>
+# Hello World
 
+### Info
 Source code for a simple hello world app using Django web framework.
-<br>
 
-<h2>Installation guide: </h2>
-<ul>
-    <li>Create a virtual environment</li>
-        <ul>
-            <li>$ virtualenv virtenv_hello_world</li>
-            <li>$ source virtenv_hello_world/bin/activate</li>
-        </ul>
-    <li>pip install django</li>
-    <li>cd djangoapp</li>
-    <li>python manage.py runserver</li>
-</ul>
+### Installation guide:
+- Create a virtual environment
+  - $ virtualenv virtenv_hello_world
+  - $ source virtenv_hello_world/bin/activate
+- pip install django
+- cd djangoapp
+- python manage.py runserver
