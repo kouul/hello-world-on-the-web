@@ -16,10 +16,11 @@ The repository is structured into folders named using respective programming lan
 ### Languages covered
 ##### HTML
 ##### Python
-[x] Flask
-[x] Django
-[ ] web2py
-[ ] cherrypy
+
+- [x] Flask
+- [x] Django
+- [ ] web2py
+- [ ] cherrypy
 ##### Python
 [ ] Play
 [ ] Spring
