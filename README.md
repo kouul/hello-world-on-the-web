@@ -22,22 +22,22 @@
 
 <br>
 <h3>Languages covered</h3>
-    <ul>
-        - [x] HTML
-        <li>Python</li>
-        - [x] Flask
-        - [x] Django
-        - [ ] web2py
-        - [ ] cherrypy
-        <li>Java</li>
-        - [ ] Play
-        - [ ] Spring
-        - [ ] Struts
-        <li>Javascript</li>
-        - [ ] ReactJs
-        - [ ] ExtJs
-        - [ ] AngularJs
-        - [ ] EmberJs
-    </ul>
+    - [x] HTML
+    
+    <h5>Python</h5>
+    - [x] Flask
+    - [x] Django
+    - [ ] web2py
+    - [ ] cherrypy
+    <h5>Python</h5>
+    - [ ] Play
+    - [ ] Spring
+    - [ ] Struts
+    <h5>Javascript</h5>
+    - [ ] ReactJs
+    - [ ] ExtJs
+    - [ ] AngularJs
+    - [ ] EmberJs
+
 <br>
 Feel free to commit :)
