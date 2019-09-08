@@ -14,7 +14,7 @@ The repository is structured into folders named using respective programming lan
 4. Create pull rqeuest
 
 ### Languages covered
-##### HTML
+##### - [x] HTML
 ##### Python
 
 - [x] Flask
@@ -22,13 +22,13 @@ The repository is structured into folders named using respective programming lan
 - [ ] web2py
 - [ ] cherrypy
 ##### Python
-[ ] Play
-[ ] Spring
-[ ] Struts
+- [ ] Play
+- [ ] Spring
+- [ ] Struts
 ##### Javascript
-[ ] ReactJs
-[ ] ExtJs
-[ ] AngularJs
-[ ] EmberJs
+- [ ] ReactJs
+- [ ] ExtJs
+- [ ] AngularJs
+- [ ] EmberJs
 
 Feel free to commit :)
