@@ -11,8 +11,9 @@ The repository is structured into folders named using respective programming lan
 2. Clone the forked repo to your local environment
    - $ git clone {{ url }}
 3. Make your changes
-4. Create a branch
-   - $ git clone branch_name
+4. Create a branch and checkout
+   - $ git branch branch_name
+   - $ git checkout branch_name
 5. Create pull rqeuest
 
 ### Languages covered
@@ -24,7 +25,7 @@ The repository is structured into folders named using respective programming lan
 - [ ] web2py
 - [ ] cherrypy
 
-##### Python
+##### Java
 - [ ] Play
 - [ ] Spring
 - [ ] Struts
@@ -34,5 +35,7 @@ The repository is structured into folders named using respective programming lan
 - [ ] ExtJs
 - [ ] AngularJs
 - [ ] EmberJs
+
+##### Other
 
 Feel free to commit :)
