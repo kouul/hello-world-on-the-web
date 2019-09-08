@@ -24,10 +24,10 @@
 <h3>Languages covered</h3>
     <h5>HTML</h5>
     <h5>Python</h5>
-    - [x] Flask
-    - [x] Django
-    - [ ] web2py
-    - [ ] cherrypy
+    [x] Flask
+    [x] Django
+    [ ] web2py
+    [ ] cherrypy
     <h5>Python</h5>
     - [ ] Play
     - [ ] Spring
