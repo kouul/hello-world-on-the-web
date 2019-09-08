@@ -11,20 +11,24 @@ The repository is structured into folders named using respective programming lan
 2. Clone the forked repo to your local environment
    - $ git clone {{ url }}
 3. Make your changes
-4. Create pull rqeuest
+4. Create a branch
+   - $ git clone branch_name
+5. Create pull rqeuest
 
 ### Languages covered
-##### - [x] HTML
-##### Python
+##### HTML
 
+##### Python
 - [x] Flask
 - [x] Django
 - [ ] web2py
 - [ ] cherrypy
+
 ##### Python
 - [ ] Play
 - [ ] Spring
 - [ ] Struts
+
 ##### Javascript
 - [ ] ReactJs
 - [ ] ExtJs
