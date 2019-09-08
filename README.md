@@ -21,9 +21,9 @@
     </ul>
 
 <br>
-<h3>Languages covered</h3>
-    <h5>HTML</h5>
-    <h5>Python</h5>
+### Languages covered
+    ##### HTML
+    ##### Python
     [x] Flask
     [x] Django
     [ ] web2py
