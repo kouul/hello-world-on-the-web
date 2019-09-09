@@ -10,3 +10,5 @@ Source code for a simple hello world app using Django web framework.
 - pip install django
 - cd djangoapp
 - python manage.py runserver
+
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
