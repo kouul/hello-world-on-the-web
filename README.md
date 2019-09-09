@@ -31,8 +31,8 @@ The repository is structured into folders named using respective programming lan
 - [ ] Struts
 
 ##### Javascript
-- [ ] ReactJs
-- [ ] ExtJs
+- [x] ReactJs
+- [x] ExtJs
 - [ ] AngularJs
 - [ ] EmberJs
 
