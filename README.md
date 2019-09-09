@@ -9,7 +9,7 @@ The repository is structured into folders named using respective programming lan
 ### How to contribute
 1. Fork the repository
 2. Clone the forked repo to your local environment
-   - $ git clone {{ url }}
+   - $ git clone https://github.com/{{ your-username }}/hello-world-on-the-web
 3. Make your changes
 4. Create a branch and checkout
    - $ git branch branch_name
@@ -31,10 +31,18 @@ The repository is structured into folders named using respective programming lan
 - [ ] Struts
 
 ##### Javascript
+- [ ] NodeJs
 - [x] ReactJs
 - [x] ExtJs
 - [ ] AngularJs
 - [ ] EmberJs
+
+##### Docker
+- [x] Flask
+- [x] PHP
+- [ ] ReactJs
+- [ ] AngularJs
+- [ ] Django
 
 ##### Other
 
