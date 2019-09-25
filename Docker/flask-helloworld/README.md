@@ -6,6 +6,9 @@ Source code for a Flask Hello World using Docker containers.
 ### Installation guide:
 - docker-compose up -d
 
+### Get into docker container:
+- docker exec -it {container_name} /bin/sh
+
 ### Images used:
 - python:3.7-alpine
 

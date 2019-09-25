@@ -6,6 +6,9 @@ Source code for a Node.js Hello World app running on Docker containers.
 ### Installation guide:
 - docker-compose up -d
 
+### Get into docker container:
+- docker exec -it {container_name} /bin/sh
+
 ### Images used:
 - node:10-alpine
 
