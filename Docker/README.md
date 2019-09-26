@@ -8,6 +8,7 @@ This folder contains the Dockerized version of the Hello World projects.
 - [x] Flask
 
 ##### Javascript
+- [x] NodeJS
 - [ ] ReactJS
 
 ##### PHP
