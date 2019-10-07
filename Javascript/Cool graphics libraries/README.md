@@ -8,6 +8,9 @@ This folder contains some cool javascript graphic libraries which I encountered 
 ### Installation guide:
 In the project directory, all projects can be run using parcel-bundler. Each js library folder here contains a README.md file elaborating on how you can run it using parcel-bundler.
 
+##### Requirements:
+- parcel-bundler
+
 #### Cool js libaries
 - [x] fullpagejs
 - [x] funnytextjs
