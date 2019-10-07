@@ -10,5 +10,4 @@ Source code for a simple hello world app using a fullpagejs. The source code for
 In the project directory, you can run:
 - $ parcel index.html
 
-<br>
 Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
