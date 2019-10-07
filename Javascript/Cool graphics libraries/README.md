@@ -10,4 +10,4 @@ In the project directory, all projects can be run using parcel-bundler. Each js 
 
 #### Cool js libaries
 - [x] fullpagejs
-- [ ]
+- [x] funnytextjs
