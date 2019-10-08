@@ -38,6 +38,7 @@ The repository is structured into folders named using respective programming lan
 - [ ] EmberJs
 
 ##### Docker
+(Just experimenting docker containers)
 - [x] Flask
 - [x] PHP
 - [ ] ReactJs
