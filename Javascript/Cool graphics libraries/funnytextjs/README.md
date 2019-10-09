@@ -10,4 +10,8 @@ Source code for a simple hello world app using a funnytextjs. The source code fo
 In the project directory, you can run:
 - $ parcel index.html
 
+### Usage:
+- [ ] CDN
+- [x] Include library
+
 Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
