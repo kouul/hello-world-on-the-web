@@ -7,6 +7,10 @@ Source code for a simple hello world app using a fullpagejs. The source code for
 (Optional) You can install parcel-bundler using:
 - $ npm install -g parcel-bundler
 
+### Usage:
+- [x] CDN
+- [ ] Include library
+
 In the project directory, you can run:
 - $ parcel index.html
 
