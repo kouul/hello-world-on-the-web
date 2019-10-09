@@ -10,4 +10,8 @@ Source code for a simple hello world app using a pagepilingjs. The source code f
 In the project directory, you can run:
 - $ parcel index.html
 
+### Usage:
+- [x] CDN
+- [ ] Include library
+
 Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
