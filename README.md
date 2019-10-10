@@ -4,7 +4,7 @@
 This project aims at trying to display "Hello World" on your browser using all possible web frameworks such as ReactJS & Flask.
 
 ### Info
-The repository is structured into folders named using respective programming language. For example, Python folder will contain sub folders named Flask or Django. Each of these sub folder will contain the source code for the Hello World project along with a Readme file which will elaborate on the installation guide.
+The repository is structured into folders named using respective programming language. For example, Python folder will contain sub folders named Flask or Django. Each of these sub folder will contain the source code for the Hello World project along with a Readme file which will elaborate on the installation guide. Feel free to commit :)
 
 ### How to contribute
 1. Fork the repository
@@ -47,4 +47,4 @@ The repository is structured into folders named using respective programming lan
 
 ##### Other
 
-Feel free to commit :)
+###### P.S This project is just to experiment new web technologies. Feel free to commit :)
