@@ -1,7 +1,7 @@
 # Hello World
 
 ### Aim
-This project aims at trying to display "Hello World" on your browser using all possible web frameworks such as ReactJS & Flask.
+The aim of this project is to display the message 'Hello World' on your browser using all possible web frameworks, such as ReactJs or Flask and some cool js libraries.
 
 ### Info
 The repository is structured into folders named using respective programming language. For example, Python folder will contain sub folders named Flask or Django. Each of these sub folder will contain the source code for the Hello World project along with a Readme file which will elaborate on the installation guide. Feel free to commit :)
@@ -11,9 +11,7 @@ The repository is structured into folders named using respective programming lan
 2. Clone the forked repo to your local environment
    - $ git clone https://github.com/{{ your-username }}/hello-world-on-the-web
 3. Make your changes
-4. Create a branch and checkout
-   - $ git branch branch_name
-   - $ git checkout branch_name
+4. $ add, commit & push your changes
 5. Create pull rqeuest
 
 ### Languages covered
@@ -31,11 +29,19 @@ The repository is structured into folders named using respective programming lan
 - [ ] Struts
 
 ##### Javascript
-- [ ] NodeJs
+- [x] NodeJs
 - [x] ReactJs
 - [x] ExtJs
 - [ ] AngularJs
 - [ ] EmberJs
+  - Javascript graphic libraries
+    - [ ] fullpagejs
+    - [ ] multiscrolljs
+    - [ ] p5js
+    - [ ] pagepilingjs
+    - [ ] tinseltownjs
+    - [ ] typedjs
+    - [ ] funnytextjs
 
 ##### Docker
 (Just experimenting docker containers)
