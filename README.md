@@ -34,14 +34,14 @@ The repository is structured into folders named using respective programming lan
 - [x] ExtJs
 - [ ] AngularJs
 - [ ] EmberJs
-  - Javascript graphic libraries
-    - [x] fullpagejs
-    - [ ] multiscrolljs
-    - [ ] p5js
-    - [x] pagepilingjs
-    - [x] tinseltownjs
-    - [x] typedjs
-    - [x] funnytextjs
+- Javascript graphic libraries
+  - [x] fullpagejs
+  - [ ] multiscrolljs
+  - [ ] p5js
+  - [x] pagepilingjs
+  - [x] tinseltownjs
+  - [x] typedjs
+  - [x] funnytextjs
 
 ##### Docker
 (Just experimenting docker containers)
