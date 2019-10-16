@@ -37,7 +37,7 @@ The repository is structured into folders named using respective programming lan
 - Javascript graphic libraries
   - [x] fullpagejs
   - [ ] multiscrolljs
-  - [ ] p5js
+  - [x] p5js
   - [x] pagepilingjs
   - [x] tinseltownjs
   - [x] typedjs
